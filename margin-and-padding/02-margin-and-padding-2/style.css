@@ -6,22 +6,38 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: 16px auto;
+  margin: auto;
+  padding: 12px;
+
 }
 
 .title {
   background: #e3f4ff;
+  padding: 14px;
+  margin: 8px;
+
 }
 
 .content {
   background: #e3f4ff;
+  padding: 12px;
+  margin-left: 8px;
+  margin-right: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
+  margin: 8px;
+  padding: 20px;
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin-left: 120px;
+  padding: 8px;
+
+
 }
